@@ -1,8 +1,8 @@
 Board Information Report
-Filename     : C:\Users\XPENDER\Documents\GitHub\ezlo-switchbox\Design-Files\switch-box.PcbDoc
+Filename     : C:\Users\LiberDB\Documents\GitHub\ezlo-irblaster\ezlo-switchbox\Design-Files\switch-box.PcbDoc
 Date         : 12/28/2022
-Time         : 1:33:19 AM
-Time Elapsed : 00:00:01
+Time         : 8:06:04 PM
+Time Elapsed : 00:00:00
 
 General
     Board Size, 6910milsx3413mils
@@ -10,20 +10,20 @@ General
 count : 2
 
 Routing Information
-    Routing completion, 82.46%
+    Routing completion, 100.00%
     Connections, 228
-    Connections routed, 188
-    Connections remaining, 40
+    Connections routed, 228
+    Connections remaining, 0
 count : 4
 
 Layer, Arcs, Pads, Vias, Tracks, Texts, Fills, Regions, ComponentBodies
-    Top Layer, 0, 226, 0, 412, 0, 12, 0, 0
-    Bottom Layer, 0, 52, 0, 223, 0, 10, 0, 0
-    Dimension, 0, 0, 0, 16, 2, 0, 0, 88
+    Top Layer, 0, 226, 0, 517, 0, 14, 0, 0
+    Bottom Layer, 0, 52, 0, 271, 0, 10, 0, 0
+    Dimension, 0, 0, 0, 0, 0, 0, 0, 90
     Board Outline, 0, 0, 0, 4, 0, 0, 0, 0
-    Multi-Layer, 0, 101, 83, 0, 0, 0, 1, 0
+    Multi-Layer, 0, 101, 98, 0, 0, 0, 1, 0
     Top Paste, 0, 0, 0, 0, 0, 0, 0, 0
-    Top Overlay, 3, 0, 0, 1049, 172, 24, 0, 0
+    Top Overlay, 2, 0, 0, 1048, 172, 24, 0, 0
     Top Solder, 0, 0, 0, 0, 0, 0, 0, 0
     Bottom Solder, 0, 0, 0, 0, 0, 0, 0, 0
     Bottom Overlay, 0, 0, 0, 3157, 33, 0, 0, 0
@@ -36,28 +36,8 @@ count : 14
 Drill Pairs, Vias
 count : 0
 
-Layer, Sq.In., Sq.MM., Percent of layer
-    Top Layer, 2.763, 1782.732, 12%
-    Bottom Layer, 2.691, 1735.932, 11%
-count : 2
-
 Non-Plated Hole Size, Pads, Vias
     0mils, 0, 0
     24.409mils, 0, 0
     35.433mils, 0, 0
 count : 3
-
-Plated Hole Size, Pads, Vias
-    0mils, 0, 0
-    11.811mils, 0, 0
-    31.496mils, 0, 0
-    51.181mils, 0, 0
-    51.969mils, 0, 0
-    66.929mils, 0, 0
-    82.677mils, 0, 0
-count : 7
-
-Plated Slot Size / Length, Pads
-    23.622mil / 55.118mil, 0
-    23.622mil / 66.929mil, 0
-count : 2
