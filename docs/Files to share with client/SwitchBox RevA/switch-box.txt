@@ -1,0 +1,43 @@
+Board Information Report
+Filename     : C:\Users\LiberDB\Documents\GitHub\ezlo-irblaster\ezlo-switchbox\Design-Files\switch-box.PcbDoc
+Date         : 12/28/2022
+Time         : 8:06:04 PM
+Time Elapsed : 00:00:00
+
+General
+    Board Size, 6910milsx3413mils
+    Components on board, 96
+count : 2
+
+Routing Information
+    Routing completion, 100.00%
+    Connections, 228
+    Connections routed, 228
+    Connections remaining, 0
+count : 4
+
+Layer, Arcs, Pads, Vias, Tracks, Texts, Fills, Regions, ComponentBodies
+    Top Layer, 0, 226, 0, 517, 0, 14, 0, 0
+    Bottom Layer, 0, 52, 0, 271, 0, 10, 0, 0
+    Dimension, 0, 0, 0, 0, 0, 0, 0, 90
+    Board Outline, 0, 0, 0, 4, 0, 0, 0, 0
+    Multi-Layer, 0, 101, 98, 0, 0, 0, 1, 0
+    Top Paste, 0, 0, 0, 0, 0, 0, 0, 0
+    Top Overlay, 2, 0, 0, 1048, 172, 24, 0, 0
+    Top Solder, 0, 0, 0, 0, 0, 0, 0, 0
+    Bottom Solder, 0, 0, 0, 0, 0, 0, 0, 0
+    Bottom Overlay, 0, 0, 0, 3157, 33, 0, 0, 0
+    Bottom Paste, 0, 0, 0, 0, 0, 0, 0, 0
+    Drill Guide, 0, 0, 0, 0, 0, 0, 0, 0
+    Keep-Out Layer, 0, 0, 0, 0, 0, 0, 0, 0
+    Drill Drawing, 0, 0, 0, 0, 0, 0, 0, 0
+count : 14
+
+Drill Pairs, Vias
+count : 0
+
+Non-Plated Hole Size, Pads, Vias
+    0mils, 0, 0
+    24.409mils, 0, 0
+    35.433mils, 0, 0
+count : 3
