@@ -1,0 +1,13 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [switch-box.PrjPcb]
+   Generated File[switch-box-RoundHoles.TXT]
+   Generated File[switch-box-SlotHoles.TXT]
+   Generated File[switch-box.LDP]
+   Generated File[switch-box.DRR]
+
+
+Files Generated   : 4
+Documents Printed : 0
+
+Finished Output Generation At 9:52:06 AM On 12/31/2022
