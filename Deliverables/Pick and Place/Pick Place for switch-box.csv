@@ -5,12 +5,15 @@ C:\Users\LiberDB\Documents\GitHub\ezlo-irblaster\ezlo-switchbox\Design-Files\Pro
 File Design Information:
 
 Date:       02/01/23
-Time:       13:17
-Revision:   35ef7c9e2a65c755f8d6d39deccc4f33604c77c5
+Time:       16:29
+Revision:   b67500c42914c6b266c2cf245afce167ff2d943c
 Variant:    No variations
 Units used: mm
 
 "Designator","Layer","Center-X(mm)","Center-Y(mm)","Rotation","Ref-X(mm)","Ref-Y(mm)","Pad-X(mm)","Pad-Y(mm)"
+"R5","TopLayer","133,0985mm","59,7264mm","270","133,0985mm","59,7264mm","134,2985mm","60,7014mm"
+"R4","TopLayer","85,5562mm","59,7264mm","270","85,5562mm","59,7264mm","86,7562mm","60,7014mm"
+"R3","TopLayer","38,0140mm","59,7264mm","270","38,0140mm","59,7264mm","39,2140mm","60,7014mm"
 "R14","TopLayer","1,3208mm","44,1452mm","0","1,3208mm","44,1452mm","0,0508mm","44,1452mm"
 "J14","TopLayer","164,1348mm","85,4202mm","90","164,1348mm","80,3402mm","164,1348mm","80,3402mm"
 "J13","TopLayer","78,8247mm","9,7282mm","0","73,7447mm","9,7282mm","73,7447mm","9,7282mm"
@@ -66,9 +69,6 @@ Units used: mm
 "R8","TopLayer","161,4424mm","70,7390mm","90","161,4424mm","70,7390mm","161,4424mm","70,2691mm"
 "R7","TopLayer","161,4424mm","65,5574mm","90","161,4424mm","65,5574mm","161,4424mm","65,0875mm"
 "R6","TopLayer","160,5534mm","85,3948mm","180","160,5534mm","85,3948mm","161,0233mm","85,3948mm"
-"R5","TopLayer","132,3634mm","58,9716mm","270","133,2509mm","59,4216mm","133,2509mm","59,4216mm"
-"R4","TopLayer","85,0686mm","58,9716mm","270","85,9561mm","59,4216mm","85,9561mm","59,4216mm"
-"R3","TopLayer","37,7738mm","58,9716mm","270","38,6613mm","59,4216mm","38,6613mm","59,4216mm"
 "R2","TopLayer","1,3970mm","59,1058mm","0","1,3970mm","59,1058mm","0,6350mm","59,1058mm"
 "R1","TopLayer","102,9716mm","72,1360mm","180","102,9716mm","72,1360mm","103,7336mm","72,1360mm"
 "Q3","TopLayer","123,2408mm","84,2010mm","270","123,2408mm","84,2010mm","122,2408mm","85,1510mm"
