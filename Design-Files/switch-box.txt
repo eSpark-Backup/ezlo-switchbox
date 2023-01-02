@@ -1,11 +1,11 @@
 Board Information Report
-Filename     : C:\Users\XPENDER\Documents\GitHub\ezlo-switchbox\Design-Files\switch-box.PcbDoc
-Date         : 12/30/2022
-Time         : 1:23:00 AM
-Time Elapsed : 00:00:01
+Filename     : C:\Users\LiberDB\Documents\GitHub\ezlo-irblaster\ezlo-switchbox\Design-Files\switch-box.PcbDoc
+Date         : 1/2/2023
+Time         : 12:59:26 PM
+Time Elapsed : 00:00:00
 
 General
-    Board Size, 6943milsx3911mils
+    Board Size, 176.3522mmx99.3394mm
     Components on board, 98
 count : 2
 
@@ -17,16 +17,16 @@ Routing Information
 count : 4
 
 Layer, Arcs, Pads, Vias, Tracks, Texts, Fills, Regions, ComponentBodies
-    Top Layer, 0, 230, 0, 525, 0, 24, 0, 0
-    Bottom Layer, 0, 52, 0, 278, 0, 10, 0, 0
+    Top Layer, 607, 282, 0, 8636, 0, 34, 0, 0
+    Bottom Layer, 349, 0, 0, 4648, 0, 3, 0, 0
     Dimension, 0, 0, 0, 16, 2, 0, 0, 92
-    Board Outline, 0, 0, 0, 134, 0, 0, 0, 0
-    Multi-Layer, 0, 101, 116, 0, 0, 0, 11, 0
+    Board Outline, 0, 0, 0, 124, 0, 0, 0, 0
+    Multi-Layer, 0, 101, 129, 0, 0, 0, 11, 0
     Top Paste, 0, 0, 0, 0, 0, 0, 0, 0
-    Top Overlay, 2, 0, 0, 1068, 206, 24, 0, 0
+    Top Overlay, 2, 0, 0, 1158, 242, 24, 0, 0
     Top Solder, 0, 0, 0, 0, 0, 0, 0, 0
     Bottom Solder, 0, 0, 0, 0, 0, 0, 0, 0
-    Bottom Overlay, 0, 0, 0, 3157, 33, 0, 0, 0
+    Bottom Overlay, 0, 0, 0, 3070, 1, 0, 0, 0
     Bottom Paste, 0, 0, 0, 0, 0, 0, 0, 0
     Drill Guide, 0, 0, 0, 0, 0, 0, 0, 0
     Keep-Out Layer, 0, 0, 0, 0, 0, 0, 0, 0
@@ -36,27 +36,8 @@ count : 14
 Drill Pairs, Vias
 count : 0
 
-Layer, Sq.In., Sq.MM., Percent of layer
-    Top Layer, 4.142, 2671.94, 15%
-    Bottom Layer, 3.121, 2013.331, 11%
-count : 2
-
 Non-Plated Hole Size, Pads, Vias
-    0mils, 0, 0
-    24.409mils, 0, 0
-    35.433mils, 0, 0
+    0mm, 0, 0
+    0.62mm, 0, 0
+    0.9mm, 0, 0
 count : 3
-
-Plated Hole Size, Pads, Vias
-    0mils, 0, 0
-    11.811mils, 0, 0
-    31.496mils, 0, 0
-    51.969mils, 0, 0
-    62.992mils, 0, 0
-    82.677mils, 0, 0
-count : 6
-
-Plated Slot Size / Length, Pads
-    23.622mil / 55.118mil, 0
-    23.622mil / 66.929mil, 0
-count : 2
